@@ -57,12 +57,38 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fullpage\css\jquery.fullPage.css" />
+    <Content Include="fullpage\images\1.jpg" />
+    <Content Include="fullpage\images\2.jpg" />
+    <Content Include="fullpage\images\3.jpg" />
+    <Content Include="fullpage\images\4.jpg" />
+    <Content Include="fullpage\images\iphone-blue.png" />
+    <Content Include="fullpage\images\iphone-green.png" />
+    <Content Include="fullpage\images\iphone-red.png" />
+    <Content Include="fullpage\images\iphone-two.png" />
+    <Content Include="fullpage\images\iphone-yellow.png" />
+    <Content Include="fullpage\images\iphone1.jpg" />
+    <Content Include="fullpage\images\iphone2.png" />
+    <Content Include="fullpage\images\iphone3.png" />
+    <Content Include="fullpage\images\iphone4.png" />
+    <Content Include="fullpage\index.html" />
+    <Content Include="fullpage\index2.html" />
+    <Content Include="fullpage\index3.html" />
+    <Content Include="fullpage\index4.html" />
+    <Content Include="fullpage\index5.html" />
+    <Content Include="fullpage\index6.html" />
+    <Content Include="fullpage\index7.html" />
+    <Content Include="fullpage\index8.html" />
+    <Content Include="fullpage\js\jquery-1.8.3.min.js" />
+    <Content Include="fullpage\js\jquery-ui-1.10.3.min.js" />
+    <Content Include="fullpage\js\jquery.fullPage.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fullpage\说明下载.url" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
